@@ -1,0 +1,131 @@
+/*Agility*/
+UPDATE item_template SET stat_value1 = stat_value1 /10 WHERE stat_type1 = 3;
+UPDATE item_template SET stat_value2 = stat_value2 /10 WHERE stat_type2 = 3;
+UPDATE item_template SET stat_value3 = stat_value3 /10 WHERE stat_type3 = 3;
+UPDATE item_template SET stat_value4 = stat_value4 /10 WHERE stat_type4 = 3;
+UPDATE item_template SET stat_value5 = stat_value5 /10 WHERE stat_type5 = 3;
+UPDATE item_template SET stat_value6 = stat_value6 /10 WHERE stat_type6 = 3;
+UPDATE item_template SET stat_value7 = stat_value7 /10 WHERE stat_type7 = 3;
+UPDATE item_template SET stat_value8 = stat_value8 /10 WHERE stat_type8 = 3;
+UPDATE item_template SET stat_value9 = stat_value9 /10 WHERE stat_type9 = 3;
+UPDATE item_template SET stat_value10 = stat_value10 /10 WHERE stat_type10 = 3;
+
+/*Strength*/
+UPDATE item_template SET stat_value1 = stat_value1 /10 WHERE stat_type1 = 4;
+UPDATE item_template SET stat_value2 = stat_value2 /10 WHERE stat_type2 = 4;
+UPDATE item_template SET stat_value3 = stat_value3 /10 WHERE stat_type3 = 4;
+UPDATE item_template SET stat_value4 = stat_value4 /10 WHERE stat_type4 = 4;
+UPDATE item_template SET stat_value5 = stat_value5 /10 WHERE stat_type5 = 4;
+UPDATE item_template SET stat_value6 = stat_value6 /10 WHERE stat_type6 = 4;
+UPDATE item_template SET stat_value7 = stat_value7 /10 WHERE stat_type7 = 4;
+UPDATE item_template SET stat_value8 = stat_value8 /10 WHERE stat_type8 = 4;
+UPDATE item_template SET stat_value9 = stat_value9 /10 WHERE stat_type9 = 4;
+UPDATE item_template SET stat_value10 = stat_value10 /10 WHERE stat_type10 = 4;
+
+/*Intellect*/
+UPDATE item_template SET stat_value1 = stat_value1 /10 WHERE stat_type1 = 5;
+UPDATE item_template SET stat_value2 = stat_value2 /10 WHERE stat_type2 = 5;
+UPDATE item_template SET stat_value3 = stat_value3 /10 WHERE stat_type3 = 5;
+UPDATE item_template SET stat_value4 = stat_value4 /10 WHERE stat_type4 = 5;
+UPDATE item_template SET stat_value5 = stat_value5 /10 WHERE stat_type5 = 5;
+UPDATE item_template SET stat_value6 = stat_value6 /10 WHERE stat_type6 = 5;
+UPDATE item_template SET stat_value7 = stat_value7 /10 WHERE stat_type7 = 5;
+UPDATE item_template SET stat_value8 = stat_value8 /10 WHERE stat_type8 = 5;
+UPDATE item_template SET stat_value9 = stat_value9 /10 WHERE stat_type9 = 5;
+UPDATE item_template SET stat_value10 = stat_value10 /10 WHERE stat_type10 = 5;
+
+/*Spirit*/
+UPDATE item_template SET stat_value1 = stat_value1 /10 WHERE stat_type1 = 6;
+UPDATE item_template SET stat_value2 = stat_value2 /10 WHERE stat_type2 = 6;
+UPDATE item_template SET stat_value3 = stat_value3 /10 WHERE stat_type3 = 6;
+UPDATE item_template SET stat_value4 = stat_value4 /10 WHERE stat_type4 = 6;
+UPDATE item_template SET stat_value5 = stat_value5 /10 WHERE stat_type5 = 6;
+UPDATE item_template SET stat_value6 = stat_value6 /10 WHERE stat_type6 = 6;
+UPDATE item_template SET stat_value7 = stat_value7 /10 WHERE stat_type7 = 6;
+UPDATE item_template SET stat_value8 = stat_value8 /10 WHERE stat_type8 = 6;
+UPDATE item_template SET stat_value9 = stat_value9 /10 WHERE stat_type9 = 6;
+UPDATE item_template SET stat_value10 = stat_value10 /10 WHERE stat_type10 = 6;
+
+/*Stamina*/
+UPDATE item_template SET stat_value1 = stat_value1 /10 WHERE stat_type1 = 7;
+UPDATE item_template SET stat_value2 = stat_value2 /10 WHERE stat_type2 = 7;
+UPDATE item_template SET stat_value3 = stat_value3 /10 WHERE stat_type3 = 7;
+UPDATE item_template SET stat_value4 = stat_value4 /10 WHERE stat_type4 = 7;
+UPDATE item_template SET stat_value5 = stat_value5 /10 WHERE stat_type5 = 7;
+UPDATE item_template SET stat_value6 = stat_value6 /10 WHERE stat_type6 = 7;
+UPDATE item_template SET stat_value7 = stat_value7 /10 WHERE stat_type7 = 7;
+UPDATE item_template SET stat_value8 = stat_value8 /10 WHERE stat_type8 = 7;
+UPDATE item_template SET stat_value9 = stat_value9 /10 WHERE stat_type9 = 7;
+UPDATE item_template SET stat_value10 = stat_value10 /10 WHERE stat_type10 = 7;
+
+/*Attack Power*/
+UPDATE item_template SET stat_value1 = stat_value1 /10 WHERE stat_type1 = 38;
+UPDATE item_template SET stat_value2 = stat_value2 /10 WHERE stat_type2 = 38;
+UPDATE item_template SET stat_value3 = stat_value3 /10 WHERE stat_type3 = 38;
+UPDATE item_template SET stat_value4 = stat_value4 /10 WHERE stat_type4 = 38;
+UPDATE item_template SET stat_value5 = stat_value5 /10 WHERE stat_type5 = 38;
+UPDATE item_template SET stat_value6 = stat_value6 /10 WHERE stat_type6 = 38;
+UPDATE item_template SET stat_value7 = stat_value7 /10 WHERE stat_type7 = 38;
+UPDATE item_template SET stat_value8 = stat_value8 /10 WHERE stat_type8 = 38;
+UPDATE item_template SET stat_value9 = stat_value9 /10 WHERE stat_type9 = 38;
+UPDATE item_template SET stat_value10 = stat_value10 /10 WHERE stat_type10 = 38;
+
+/*Ranged Attack Power*/
+UPDATE item_template SET stat_value1 = stat_value1 /10 WHERE stat_type1 = 39;
+UPDATE item_template SET stat_value2 = stat_value2 /10 WHERE stat_type2 = 39;
+UPDATE item_template SET stat_value3 = stat_value3 /10 WHERE stat_type3 = 39;
+UPDATE item_template SET stat_value4 = stat_value4 /10 WHERE stat_type4 = 39;
+UPDATE item_template SET stat_value5 = stat_value5 /10 WHERE stat_type5 = 39;
+UPDATE item_template SET stat_value6 = stat_value6 /10 WHERE stat_type6 = 39;
+UPDATE item_template SET stat_value7 = stat_value7 /10 WHERE stat_type7 = 39;
+UPDATE item_template SET stat_value8 = stat_value8 /10 WHERE stat_type8 = 39;
+UPDATE item_template SET stat_value9 = stat_value9 /10 WHERE stat_type9 = 39;
+UPDATE item_template SET stat_value10 = stat_value10 /10 WHERE stat_type10 = 39;
+
+/*Feral Attack Power*/
+UPDATE item_template SET stat_value1 = stat_value1 /10 WHERE stat_type1 = 40;
+UPDATE item_template SET stat_value2 = stat_value2 /10 WHERE stat_type2 = 40;
+UPDATE item_template SET stat_value3 = stat_value3 /10 WHERE stat_type3 = 40;
+UPDATE item_template SET stat_value4 = stat_value4 /10 WHERE stat_type4 = 40;
+UPDATE item_template SET stat_value5 = stat_value5 /10 WHERE stat_type5 = 40;
+UPDATE item_template SET stat_value6 = stat_value6 /10 WHERE stat_type6 = 40;
+UPDATE item_template SET stat_value7 = stat_value7 /10 WHERE stat_type7 = 40;
+UPDATE item_template SET stat_value8 = stat_value8 /10 WHERE stat_type8 = 40;
+UPDATE item_template SET stat_value9 = stat_value9 /10 WHERE stat_type9 = 40;
+UPDATE item_template SET stat_value10 = stat_value10 /10 WHERE stat_type10 = 40;
+
+/*Spell Healing Done*/
+UPDATE item_template SET stat_value1 = stat_value1 /10 WHERE stat_type1 = 41;
+UPDATE item_template SET stat_value2 = stat_value2 /10 WHERE stat_type2 = 41;
+UPDATE item_template SET stat_value3 = stat_value3 /10 WHERE stat_type3 = 41;
+UPDATE item_template SET stat_value4 = stat_value4 /10 WHERE stat_type4 = 41;
+UPDATE item_template SET stat_value5 = stat_value5 /10 WHERE stat_type5 = 41;
+UPDATE item_template SET stat_value6 = stat_value6 /10 WHERE stat_type6 = 41;
+UPDATE item_template SET stat_value7 = stat_value7 /10 WHERE stat_type7 = 41;
+UPDATE item_template SET stat_value8 = stat_value8 /10 WHERE stat_type8 = 41;
+UPDATE item_template SET stat_value9 = stat_value9 /10 WHERE stat_type9 = 41;
+UPDATE item_template SET stat_value10 = stat_value10 /10 WHERE stat_type10 = 41;
+
+/*Spell Damage Done*/
+UPDATE item_template SET stat_value1 = stat_value1 /10 WHERE stat_type1 = 42;
+UPDATE item_template SET stat_value2 = stat_value2 /10 WHERE stat_type2 = 42;
+UPDATE item_template SET stat_value3 = stat_value3 /10 WHERE stat_type3 = 42;
+UPDATE item_template SET stat_value4 = stat_value4 /10 WHERE stat_type4 = 42;
+UPDATE item_template SET stat_value5 = stat_value5 /10 WHERE stat_type5 = 42;
+UPDATE item_template SET stat_value6 = stat_value6 /10 WHERE stat_type6 = 42;
+UPDATE item_template SET stat_value7 = stat_value7 /10 WHERE stat_type7 = 42;
+UPDATE item_template SET stat_value8 = stat_value8 /10 WHERE stat_type8 = 42;
+UPDATE item_template SET stat_value9 = stat_value9 /10 WHERE stat_type9 = 42;
+UPDATE item_template SET stat_value10 = stat_value10 /10 WHERE stat_type10 = 42;
+
+/*Spell Power*/
+UPDATE item_template SET stat_value1 = stat_value1 /10 WHERE stat_type1 = 45;
+UPDATE item_template SET stat_value2 = stat_value2 /10 WHERE stat_type2 = 45;
+UPDATE item_template SET stat_value3 = stat_value3 /10 WHERE stat_type3 = 45;
+UPDATE item_template SET stat_value4 = stat_value4 /10 WHERE stat_type4 = 45;
+UPDATE item_template SET stat_value5 = stat_value5 /10 WHERE stat_type5 = 45;
+UPDATE item_template SET stat_value6 = stat_value6 /10 WHERE stat_type6 = 45;
+UPDATE item_template SET stat_value7 = stat_value7 /10 WHERE stat_type7 = 45;
+UPDATE item_template SET stat_value8 = stat_value8 /10 WHERE stat_type8 = 45;
+UPDATE item_template SET stat_value9 = stat_value9 /10 WHERE stat_type9 = 45;
+UPDATE item_template SET stat_value10 = stat_value10 /10 WHERE stat_type10 = 45;
